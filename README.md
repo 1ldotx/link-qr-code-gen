@@ -1,0 +1,1 @@
+# link-qr-code-gen
